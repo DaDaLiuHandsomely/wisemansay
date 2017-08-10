@@ -5,5 +5,18 @@
 html,body{
 	height: 100%;
 }
-
-
+.font16{
+	color: #666;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+.font14{
+	color: #666;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+.font12b{
+	color: #6663ab;
+	font-family: "微软雅黑";
+	font-size: 12px;
+}

@@ -1,0 +1,252 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 375684 */
+  src: url('//at.alicdn.com/t/font_cfs6oh9v6lkxogvi.eot');
+  src: url('//at.alicdn.com/t/font_cfs6oh9v6lkxogvi.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_cfs6oh9v6lkxogvi.woff') format('woff'),
+  url('//at.alicdn.com/t/font_cfs6oh9v6lkxogvi.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_cfs6oh9v6lkxogvi.svg#iconfont') format('svg');
+}
+body{
+	background: #f7f7f7;
+}
+.h{
+	width: 100%;
+	background: #666666;
+}
+.hn{
+	width: 1200px;
+	height: 30px;
+	background: #666666;
+	margin:0 auto;
+}
+.hn span a{
+	color: #fff;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	text-decoration: none;
+	line-height: 30px;
+}
+.hn span:first-child{
+	float: left;	
+}
+.hn span:first-child a{
+	margin-right: 30px;
+}
+.hn span:last-child{
+	float:right;
+}
+.hn span:last-child a{
+	margin-left: 30px;
+}
+.whead{
+	width: 100%;
+	background: #fff;
+}
+.head{
+	width: 1200px;
+	height: 80px;
+	margin: 0 auto;
+	background: #fff;
+	overflow: hidden;
+}
+.head div{
+	
+	float: left;
+	
+}
+.head div:nth-child(1){
+	padding: 25px 0;
+}
+.head div:nth-child(2){
+	margin-left: 30px;
+}
+.head div a{
+	display: inline-block;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color:#666666;
+	text-decoration: none;
+	margin:0 20px 50px;
+	padding-bottom: 30px;
+	line-height: 80px;	
+}
+.head div span{
+	font-size: 12px;
+}
+.head div:nth-child(3){
+	float: right;
+	padding: 15px 0;
+}
+.head div:nth-child(4){
+	float: right;
+	padding: 24px 0;
+	margin-right: 100px;
+	
+}
+.head div:nth-child(4) input{
+	width: 272px;
+	height: 30px;
+	border: 1px solid #666;
+	outline: none;
+	float: left;
+}
+.head div:nth-child(4) button{
+	width: 36px;
+	height: 32px;
+	color: #fff;
+	font-family: iconfont;
+	font-size: 18px;
+	background: #666;
+	border: none;
+	outline: none;
+	float: left;
+}
+.imgh{
+	width: 100%;
+	height: 350px;
+	background: url(../images/r3.jpg) no-repeat center top;
+}
+.center{
+	width: 1196px;
+	margin: 0 auto;
+	margin-top: 20px;
+	overflow: hidden;
+}
+.c1{
+	width: 1200px;
+	height: 172px;
+	background: #fff;
+	padding: 0 18px;
+	overflow: hidden;
+	border-bottom: 1px dashed #d9d9d9;
+}
+.c1:hover{
+	background: #f7f7f7;
+}
+.c1-1{
+	width: 98px;
+	height: 97px;
+	border-radius: 50%;
+	border: 2px solid #b3b3b3;
+	text-align: center;
+	margin: 37px 20px;
+	overflow: hidden;
+	float: left;
+	
+}
+.c1-1 img{
+	margin-top: 2px;
+}
+.c1-2{
+	margin: 20px 20px 0;
+	float: left;
+}
+.c1-2 p{
+	line-height: 34px;
+}
+.c1-3{
+	line-height: 172px;
+	margin-right: 40px;
+	float: right;
+}
+.c1-3 button{
+	width: 98px;
+	height: 30px;
+	background: none;
+	outline: none;
+	border: 1px solid #6663ab;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 6px;
+	
+}
+.c1-3 button:hover{
+	background: #6663ab;
+	color: #fff;
+}
+.c2{
+	width: 1200px;
+	height: 300px;
+	background: #fff;
+	overflow: hidden;
+	clear: both;
+}
+.c2-1{
+	margin: 130px 300px;
+	
+}
+.c2-1 span{
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	border: 1px solid #d9d9d9;
+	line-height: 32px;
+	text-align: center;
+}
+.c2-1 span:hover{
+	background: #6663ab;
+	color: #fff;
+}
+.c2-1 span:nth-child(2){
+	background: #6663ab;
+	color: #fff;
+}
+.c2-1 span:nth-child(1),.c2-1 span:nth-child(7),.c2-1 span:last-child{
+	width: 68px;
+}
+.c2-1 input{
+	width: 30px;
+}
+.c2-1 font{
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #aaa;
+}
+
+
+.f{
+	width: 100%;
+	background: #333;
+}
+.foot{
+	width: 1200px;
+	height: 350px;
+	margin: 0 auto;
+	background:#333;
+}
+.footc{
+	float: left;
+	padding-top: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.footc a{
+	display: block;
+	font-family: iconfont;
+	color: #B2B2B2;
+	line-height: 36px;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+}
+.footc span{
+	font-size: 20px;
+	color: #6563AC;
+	line-height: 50px;
+}
+.footc img{
+	display: block;
+	margin-top: 20px;
+	margin-left: -10px;
+}
+.footc:nth-child(1){
+	padding-top: 70px;
+}
+.ff{
+	font-size: 14px;
+	color: #B2B2B2;
+	clear: both;
+	padding-top: 60px;
+	text-align: center;
+	line-height: 30px;
+}
