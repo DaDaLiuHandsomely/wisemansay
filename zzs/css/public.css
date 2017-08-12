@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 375684 */
+  src: url('//at.alicdn.com/t/font_375684_o53osytwfnut0529.eot');
+  src: url('//at.alicdn.com/t/font_375684_o53osytwfnut0529.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_375684_o53osytwfnut0529.woff') format('woff'),
+  url('//at.alicdn.com/t/font_375684_o53osytwfnut0529.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_375684_o53osytwfnut0529.svg#iconfont') format('svg');
+}
 *{
 	padding: 0;
 	margin: 0;
@@ -10,8 +18,18 @@ html,body{
 	font-family: "微软雅黑";
 	font-size: 16px;
 }
+.font16b{
+	color: #6663ab;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
 .font14{
 	color: #666;
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+.font14c{
+	color: #b2b2b2;
 	font-family: "微软雅黑";
 	font-size: 14px;
 }
@@ -19,4 +37,12 @@ html,body{
 	color: #6663ab;
 	font-family: "微软雅黑";
 	font-size: 12px;
+}
+.font12c{
+	color: #fff;
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+.clear{
+	clear: both;
 }

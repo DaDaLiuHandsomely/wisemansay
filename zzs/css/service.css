@@ -1,11 +1,4 @@
-@font-face {
-  font-family: 'iconfont';  /* project id 375684 */
-  src: url('//at.alicdn.com/t/font_fj53u997w9xxn7b9.eot');
-  src: url('//at.alicdn.com/t/font_fj53u997w9xxn7b9.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_fj53u997w9xxn7b9.woff') format('woff'),
-  url('//at.alicdn.com/t/font_fj53u997w9xxn7b9.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_fj53u997w9xxn7b9.svg#iconfont') format('svg');
-}
+
 body{
 	background: #f7f7f7;
 }
@@ -322,7 +315,40 @@ font{
 	color: #666;
 	line-height: 50px;
 }
-
+.service{
+	margin-top: 100px;
+}
+.bgc{
+	width: 126px;
+	height: 128px;
+	padding: 12px;
+	background: #666;
+	float: right;
+}
+.ser1{
+	margin-left: 10px;
+	float: right;
+}
+.text-al{
+	text-align: left;
+	line-height: 22px;
+}
+.ser1 span{
+	font-family: iconfont;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 30px;
+	display: block;
+	margin-bottom: 15px;
+	width: 30px;
+	height: 30px;
+	border: 2px solid #666;
+	cursor: pointer;
+}
+.ser1 span:hover{
+	background: #666;
+	color: #fff;
+}
 .f{
 	width: 100%;
 	background: #333;
@@ -368,25 +394,6 @@ font{
 	text-align: center;
 	line-height: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

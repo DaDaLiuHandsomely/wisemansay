@@ -1,0 +1,387 @@
+
+body{
+	background: #f7f7f7;
+}
+.h{
+	width: 100%;
+	background: #666666;
+}
+.hn{
+	width: 1200px;
+	height: 30px;
+	background: #666666;
+	margin:0 auto;
+}
+.hn span a{
+	color: #fff;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	text-decoration: none;
+	line-height: 30px;
+}
+.hn span:first-child{
+	float: left;	
+}
+.hn span:first-child a{
+	margin-right: 30px;
+}
+.hn span:last-child{
+	float:right;
+}
+.hn span:last-child a{
+	margin-left: 30px;
+}
+.whead{
+	width: 100%;
+	background: #fff;
+}
+.head{
+	width: 1200px;
+	height: 80px;
+	margin: 0 auto;
+	background: #fff;
+	overflow: hidden;
+}
+.head div{
+	
+	float: left;
+	
+}
+.head div:nth-child(1){
+	padding: 25px 0;
+}
+.head div:nth-child(2){
+	margin-left: 30px;
+}
+.head div a{
+	display: inline-block;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color:#666666;
+	text-decoration: none;
+	margin:0 20px 50px;
+	padding-bottom: 30px;
+	line-height: 80px;	
+}
+.head div span{
+	font-size: 12px;
+}
+.head div:nth-child(3){
+	float: right;
+	padding: 15px 0;
+}
+.head div:nth-child(4){
+	float: right;
+	padding: 24px 0;
+	margin-right: 100px;
+	
+}
+.head div:nth-child(4) input{
+	width: 272px;
+	height: 30px;
+	border: 1px solid #666;
+	outline: none;
+	float: left;
+}
+.head div:nth-child(4) button{
+	width: 36px;
+	height: 32px;
+	color: #fff;
+	font-family: iconfont;
+	font-size: 18px;
+	background: #666;
+	border: none;
+	outline: none;
+	float: left;
+}
+.imgh{
+	width: 100%;
+	height: 350px;
+	background: url(../images/r3.jpg) no-repeat center top;
+}
+.center{
+	width: 1196px;
+	margin: 0 auto;
+	background: #fff;
+	margin-top: 20px;
+	border: 2px solid #e5e5e5;
+	overflow: hidden;
+}
+.cl{
+	width: 796px;
+	float: left;
+	border-right: 2px solid #e5e5e5;
+}
+.cl .cl1{
+	height: 33px;
+	background: #ededf9;
+	
+}
+ .aut{
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #666;
+	margin-left: 20px;
+	line-height: 33px;
+}
+.cl .cl2{
+	padding-top: 30px;
+	margin:0 20px;
+	
+	
+}
+.toux{
+	width: 33px;
+	height: 33px;
+	border-radius: 50%;
+	overflow: hidden;
+	float: left;
+}
+.clearb{
+	clear: both;
+}
+.floatr{
+	float: right;
+}
+
+
+.say{
+	float: left;
+	margin-left: 10px;
+}
+.name{
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #666;
+	margin-bottom: 8px;
+}
+.nsay{
+	
+	padding: 0 15px;
+	box-shadow: 0px 1px 3px 1px #d6d6d6;
+}
+.boxs{
+	box-shadow: 0px 2px 6px 3px #d6d6d6;
+}
+.marginr{
+	margin-right: 10px;
+}
+.nsay img{
+	margin: 10px 0;
+}
+.nsay span{
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #666;
+	line-height: 40px;
+	text-align: center;
+}
+.bgc{
+	background: #ededf9;
+}
+.marginb{
+	margin-bottom: 30px;
+}
+.cl31{
+	height: 36px;
+	background: #f7f7f7;
+	clear: both;
+	border-top: 2px solid #e5e5e5;
+}
+.cl1+div{
+	height: 544px;
+}
+.cl31 span{
+	line-height: 36px;
+	font-family: iconfont;
+	margin-left: 20px;
+}
+.cl31 span:last-child{
+	float: right;
+	font-size: 25px;
+	margin-right: 20px;
+}
+.cl32{
+	height: 150px;
+	position: relative;
+}
+.cl32 button{
+	background: #f7f7f7;
+	width: 70px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #666;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	position: absolute;
+	right: 15px;
+	bottom: 15px;
+	cursor: pointer;
+	
+}
+
+.cr{
+	width: 398px;
+	
+	float: left;
+}
+.cr1{
+	height: 40px;
+	border-bottom: 2px solid #d9d9d9;
+	margin-left: 20px;
+}
+.cr1 span{
+	padding: 0 20px;
+	line-height: 40px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	color: #666;
+	cursor: pointer;
+}
+.cr1 span:hover{
+	padding-bottom: 12px;
+	color: #6663ab;
+	border-bottom: 3px solid #6663ab;
+}
+.cr2{
+	margin-top: 24px;
+	margin-left: 20px;
+}
+.cr2 span{
+	margin-right: 20px;
+}
+.cr2 a{
+	display: inline-block;
+	width: 80px;
+	height: 30px;
+	background: #ededf9;
+	color: #6663ab;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	text-align: center;
+	line-height: 30px;
+	text-decoration: none;
+	border-radius: 8px;
+}
+
+
+.fh{
+	height: 335px;
+	clear: both;
+}
+.f{
+	width: 100%;
+	background: #333;
+}
+.foot{
+	width: 1200px;
+	height: 350px;
+	margin: 0 auto;
+	
+}
+.footc{
+	float: left;
+	padding-top: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.footc a{
+	display: block;
+	font-family: iconfont;
+	color: #B2B2B2;
+	line-height: 36px;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+}
+.footc span{
+	font-size: 20px;
+	color: #6563AC;
+	line-height: 50px;
+}
+.footc img{
+	display: block;
+	margin-top: 20px;
+	margin-left: -10px;
+}
+.footc:nth-child(1){
+	padding-top: 70px;
+}
+.ff{
+	font-size: 14px;
+	color: #B2B2B2;
+	clear: both;
+	padding-top: 60px;
+	text-align: center;
+	line-height: 30px;
+}
+#group{
+	width: 370px;
+	height: 418px;
+	box-shadow: 0px 2px 6px 3px #d6d6d6;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -385px;
+	margin-top: -259px;
+	background: #fff;
+	text-align: center;
+
+}
+#group div:nth-child(1){
+	padding: 0 20px;
+	height: 50px;
+	background: #f7f7f7;
+}
+.sl{
+	float: left;
+	line-height: 50px;
+}
+.sr{
+	font-size: 25px;
+	float: right;
+	line-height: 50px;
+	cursor: pointer;
+}
+label{
+	margin: 20px 0;
+	display: block;
+}
+label input{
+	width: 246px;
+	height: 34px;
+	border-radius: 5px;
+	border: 1px solid #d9d9d9;
+	outline: none;
+}
+#group button{
+	margin-top: 22px;
+	width: 200px;
+	height: 34px;
+	background: none;
+	border-radius: 8px;
+	border: 1px solid #6663ab;
+	outline: none;
+	cursor: pointer;
+}
+#group button:hover{
+	background: #6663ab;
+	color: #fff;
+}
+.ra{
+	overflow: hidden;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	
+}
+.ra input{
+	margin-right: 10px;
+}
+.ra span{
+	position: relative;
+	top: -1px;
+}
